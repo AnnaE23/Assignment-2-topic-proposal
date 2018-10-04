@@ -1,4 +1,4 @@
-# Assignment-2-topic-proposal
+# Blog Name 
 
 
 Informing
